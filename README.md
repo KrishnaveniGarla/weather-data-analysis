@@ -37,5 +37,3 @@ And you'll get forecast information as output!:
 3. Enter the name of the city for which you want to fetch the weather data.
 
 4. The script will display the current weather conditions for the specified city.
-
-
