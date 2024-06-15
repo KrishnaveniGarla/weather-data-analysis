@@ -56,6 +56,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/KrishnaveniGarla/weather-data-analysis/blob/main/LICENSE) - see the LICENSE file for details.
 
 
