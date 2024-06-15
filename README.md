@@ -32,7 +32,7 @@ $ cd my-project
 $ python3 weather_forecast.py
 ```
 And you'll get forecast information as output!:
-![Output Example](![weather(output)](https://github.com/KrishnaveniGarla/weather-data-analysis/assets/170930248/1d398876-8e65-48e8-8bb9-7a0e8399c9ea)
+(![weather(output)](https://github.com/KrishnaveniGarla/weather-data-analysis/assets/170930248/1d398876-8e65-48e8-8bb9-7a0e8399c9ea)
 
 3. Enter the name of the city for which you want to fetch the weather data.
 
