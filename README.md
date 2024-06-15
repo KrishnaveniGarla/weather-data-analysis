@@ -1,7 +1,7 @@
 # weather-data-analysis
 This project is a simple weather forecasting application built using Python. It fetches weather data from a weather API and displays the forecast for a given location. The application can be used to get current weather conditions, temperature, humidity, wind speed, and other relevant weather information.
 
-# Features
+### Features
 •Fetch current weather data for a specified location.
 
 •Display temperature, humidity, wind speed, and weather conditions.
@@ -12,7 +12,7 @@ This project is a simple weather forecasting application built using Python. It 
 
 •Can be extended to include historical data, predictions, and more.
 
-# Prerequisites
+### Prerequisites
 In order to get the weather forecast information from external services,you'll need to sign up and obtain your own API Key:
 
 •Python 3.5.
@@ -25,7 +25,7 @@ In order to get the weather forecast information from external services,you'll n
 
 •scikit-learn>=0.22
 
-# Usage
+### Usage
 1. Run the weather forecasting script:
 ```sh
 $ cd my-project
@@ -37,3 +37,25 @@ And you'll get forecast information as output!:
 3. Enter the name of the city for which you want to fetch the weather data.
 
 4. The script will display the current weather conditions for the specified city.
+
+### Project Structure
+
+• weather_data_analysis.py: The main script to fetch and display weather data.
+
+• requirements.txt: List of required Python packages.
+
+• instruction.txt: Instructions for how to implement the project.
+
+• README.md: Project documentation.
+
+• weather.csv: The analysis is performed on the dataset.
+
+### Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
