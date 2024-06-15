@@ -14,6 +14,7 @@ This project is a simple weather forecasting application built using Python. It 
 
 # Prerequisites
 In order to get the weather forecast information from external services,you'll need to sign up and obtain your own API Key:
+
 •Python 3.5.
 
 •pandas>=1.0
@@ -31,7 +32,8 @@ $ cd my-project
 $ python3 weather_forecast.py
 ```
 And you'll get forecast information as output!:
-![Output Example](
+![Output Example](![weather(output)](https://github.com/KrishnaveniGarla/weather-data-analysis/assets/170930248/1d398876-8e65-48e8-8bb9-7a0e8399c9ea)
+
 3. Enter the name of the city for which you want to fetch the weather data.
 
 4. The script will display the current weather conditions for the specified city.
